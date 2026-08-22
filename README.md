@@ -2,7 +2,7 @@
 
 ---
 
-### 🛠️ My Skills
+### My Skills
 
 | Category | Technologies |
 |----------|--------------|
