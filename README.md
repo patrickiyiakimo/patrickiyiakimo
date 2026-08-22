@@ -7,8 +7,8 @@
 | Category | Technologies |
 |----------|--------------|
 | **Languages** | JavaScript, TypeScript, PHP |
-| **Frontend** | React, HTML, CSS, NextJS, Tailwind, Laravel |
-| **Backend** | Node.js, Express.js, PHP |
+| **Frontend** | React, HTML, CSS, NextJS, Tailwind |
+| **Backend** | Node.js, Express.js, PHP, Laravel |
 | **Database** | MongoDB, MySQL, PostgreSQL |
 | **Tools** | Git |
 | **Testing** | Jest, React Testing Library |
