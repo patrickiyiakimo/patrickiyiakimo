@@ -1,5 +1,12 @@
 ## Hello 👋 I'm Patrick Iyiakimo
 
-<img alt="my stats" align= "left" width="47%" src="https://github-readme-stats.vercel.app/api?username=patrickiyiakimo"/>
+A Software Engineer
 
-<img alt="top lang" align= "left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickiyiakimo&layout=compact"/>
+My Skills
+Languages: JavaScript, TypeScript, PHP
+Frontend: React, HTML, CSS, NextJS, Tailwind, Laravel
+Backend: Node.js, Express.js, PHP
+Database: MongoDB, MySQL, PostgreSQL
+Tools: Git
+Testing: Jest, React testing Library
+Cloud: AWS, Digital Ocean, Vercel, Laravel Cloud
