@@ -1,4 +1,4 @@
-### Hello I am Patrick a Software Engineer
+### Hello 👋 I'm Patrick, a Software Engineer
 
 ---
 
