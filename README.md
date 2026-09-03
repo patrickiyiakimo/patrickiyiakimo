@@ -86,9 +86,9 @@
     <a href="mailto:iyiakimopatrick2002@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" />
     </a>
-    <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/patrick-iyiakimo-6a15a226a/)">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" />
-    </a>
+   <a href="https://www.linkedin.com/in/patrick-iyiakimo-6a15a226a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" />
+</a>
   </div>
 </div>
 
