@@ -64,15 +64,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170" />
-</p>
-
----
-
 ### 🤝 Let's Collaborate
 
 <p align="center">
@@ -92,20 +83,11 @@
   <br />
 
   <div align="center">
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:iyiakimopatrick2002@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" />
     </a>
-    <a href="https://linkedin.com/in/yourprofile">
+    <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/patrick-iyiakimo-6a15a226a/)">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" />
-    </a>
-    <a href="https://twitter.com/yourprofile">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=30" />
-    </a>
-    <a href="https://github.com/yourusername">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=30" />
-    </a>
-    <a href="https://yourportfolio.com">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white&logoWidth=30" />
     </a>
   </div>
 </div>
