@@ -115,9 +115,3 @@
     </a>
   </div>
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
-</div>
