@@ -1,8 +1,10 @@
 <h1 align="center">👋 Hello, I'm Patrick</h1>
-<h3 align="center">Veni, Vidi, Vici — Building across Web, Mobile & Backend Systems.</h3>
+<h3 align="center">Building across Web, Mobile & Backend Systems.</h3>
 
 <p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+across+Web%2C+Mobile+%26+Backend;Flutter+%7C+React+%7C+Laravel+%7C+Node.js;Veni%2C+Vidi%2C+Vici" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -27,17 +29,17 @@
     <td>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://shields.io" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td><strong>Mobile Architecture</strong></td>
     <td>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/BLoC-4A90E2?style=for-the-badge&logo=redux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
     </td>
   </tr>
   <tr>
@@ -45,7 +47,7 @@
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-      <img src="https://shields.io" />
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     </td>
   </tr>
@@ -68,8 +70,8 @@
   <tr>
     <td><strong>Testing & DevOps</strong></td>
     <td>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
+      <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
       <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     </td>
@@ -117,5 +119,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
 </div>
