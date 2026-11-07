@@ -1,11 +1,21 @@
 <h1 align="center">👋 Hello, I'm Patrick</h1>
-<h3 align="center">Building across Web, Mobile & Backend Systems.</h3>
+<h3 align="center">🚀 Full-Stack & Mobile Engineer with 4 Years of Building High-Impact Scalable Systems</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+across+Web%2C+Mobile+%26+Backend;Flutter+%7C+React+%7C+Laravel+%7C+Node.js;Veni%2C+Vidi%2C+Vici" alt="Typing SVG" />
+    <img src="https://demolab.com" alt="Typing SVG" />
   </a>
 </p>
+
+---
+
+### 🌟 Featured Production Systems
+
+#### 🛒 Enterprise Multi-Vendor E-Commerce Engine
+*Developed and launched a production-grade multi-vendor marketplace handling complex vendor balances, payment operations, and data models.*
+* **Backend Architecture:** Built with **Laravel**, engineered for lightning-fast queries, dynamic database relationship handling, and optimized caching routines.
+* **Vesting & Quality Control:** Maintained an aggressive **Test-Driven Development (TDD)** lifecycle utilizing **Pest PHP** to safeguard payments and state logic.
+* **Modern Deployment:** Managed infrastructure pipeline seamlessly via **Laravel Cloud** with high-availability configurations.
 
 ---
 
@@ -70,15 +80,17 @@
   <tr>
     <td><strong>Testing & DevOps</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+      <img src="https://shields.io" />
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
       <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td><strong>Cloud Deployments</strong></td>
     <td>
+      <img src="https://shields.io" />
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
       <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
