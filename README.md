@@ -13,7 +13,7 @@ Full Stack Developer specializing in backend systems, high-performance database 
 
 ### A little about me
 
-💻 I build with JavaScript, TypeScript, Dart, PHP, Laravel, and Flutter
+💻 I build with JavaScript, TypeScript, Next.js, Node.js, Dart, PHP, Laravel, and Flutter
 
 🛠️ Currently refining my backend architecture, enterprise system design, and advanced database optimization skills
 
