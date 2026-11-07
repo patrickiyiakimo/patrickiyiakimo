@@ -9,7 +9,7 @@
   </a>
 </div>
 
-Full Stack Developer specializing in backend systems, high-performance database design, and full-stack application development. Deeply experienced in crafting robust web and mobile applications using JavaScript, TypeScript, Dart, and PHP. Proven track record of designing, building, and deploying production-ready platforms—most recently architecting a comprehensive multi-vendor e-commerce engine with complex vendor balance ledgers, real-time transaction tracking, and payment integrations. Passionate about software craftsmanship, I prioritize writing clean, maintainable code backed by rigorous automated testing cycles using Pest PHP, and managing modern infrastructure workflows optimized for the cloud.
+Full Stack Developer specializing in backend systems, high-performance database design, and full-stack application development. Deeply experienced in crafting robust web and mobile applications using JavaScript, TypeScript, Dart, and PHP. Proven track record of designing, building, and deploying production-ready platforms—most recently architecting a comprehensive multi-vendor e-commerce engine with complex vendor balance ledgers, real-time transaction tracking, and payment integrations. Passionate about software craftsmanship, I prioritize writing clean, maintainable code backed by rigorous automated testing cycles using Pest PHP, React Testing library, Jest and managing modern infrastructure workflows optimized for the cloud.
 
 ### A little about me
 
